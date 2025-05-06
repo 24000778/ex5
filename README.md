@@ -1,6 +1,8 @@
 # Ex.05 Design a Website for Server Side Processing
 ## Date:26/05/2025
+Register number : 212224040319
 
+Name : G.Sindhu Priya Reddy
 ## AIM:
  To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side. 
 
